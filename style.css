@@ -1,0 +1,16 @@
+header {
+    font-size: 25px;
+    color: grey;
+}
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    color: navy;
+}
+
+.ready {
+    color: navy;
+}
